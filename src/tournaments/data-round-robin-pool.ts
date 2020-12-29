@@ -81,7 +81,7 @@ export const RoundRobinPool_9_Players: RoundRobinPool = {
   ]
 };
 
-export const RoundRobinPool_1_Players0: RoundRobinPool = {
+export const RoundRobinPool_10_Players: RoundRobinPool = {
   matches: [
     [M(1, 10), M(2, 9), M(3, 8), M(4, 7), M(5, 6)], // 1
     [M(1, 9), M(2, 8), M(3, 7), M(4, 6), M(5, 10)], // 2
@@ -95,7 +95,7 @@ export const RoundRobinPool_1_Players0: RoundRobinPool = {
   ]
 };
 
-export const RoundRobinPool_1_Players1: RoundRobinPool = {
+export const RoundRobinPool_11_Players: RoundRobinPool = {
   matches: [
     [M(2, 11), M(3, 10), M(4, 9), M(5, 8), M(6, 7)],
     [M(1, 11), M(2, 10), M(3, 9), M(4, 8), M(5, 7)],
@@ -112,7 +112,7 @@ export const RoundRobinPool_1_Players1: RoundRobinPool = {
 };
 
 
-export const RoundRobinPool_1_Players2: RoundRobinPool = {
+export const RoundRobinPool_12_Players: RoundRobinPool = {
   matches: [
     [M(1, 12), M(2, 11), M(3, 10), M(4, 9), M(5, 8), M(6, 7)],
     [M(1, 11), M(2, 10), M(3, 9), M(4, 8), M(5, 7), M(6, 12)],
